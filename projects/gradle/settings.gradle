@@ -1,0 +1,8 @@
+rootProject.name = 'java-spring-boot-genai-masterclass'
+
+include 'core-java'
+include 'spring-core'
+include 'spring-boot-rest'
+include 'spring-data-jpa'
+include 'spring-security'
+include 'spring-ai'
